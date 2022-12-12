@@ -1,0 +1,15 @@
+Table.weather {
+    width: 30%;
+    margin: 0 auto;
+    text-align: center;
+    justify-content: center;
+}
+
+thead {
+    font-size: 2rem;
+        justify-content: center;
+}
+
+p {
+font-size: 2rem;
+}
